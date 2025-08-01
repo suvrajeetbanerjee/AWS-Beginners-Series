@@ -105,7 +105,7 @@ AWS IAM - AWS Organizations - AWS STS - AWS CloudTrail - AWS GuardDuty - Terrafo
 ## 🙏 Acknowledgments
 This learning journey was powered & supported by NextWork's structured approach to cloud education, which made breaking down complex concepts into digestable-byte-sized-hands-on practice accessible through systematic skill building & clear-actionable steps.
 
-This blog is based on - NextWork's - Cloud Security with AWS IAM !
+This write-up is based on - NextWork's - Cloud Security with AWS IAM !
 
 Give it a try: <https://learn.nextwork.org/projects/aws-security-iam?track=high>
 
