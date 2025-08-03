@@ -95,10 +95,10 @@ AWS IAM - AWS Organizations - AWS STS - AWS CloudTrail - AWS GuardDuty - Terrafo
 - **Community Showcase Post** – *Cloud Security with AWS IAM & AWS Analytics with QuickSight*  
   <https://community.nextwork.org/c/celebrations/cloud-security-with-aws-iam-aws-analytics-with-quicksight>
 
-<!-- Blog Article – uncomment & replace when published
-- **Blog:** *Title of Your Blog Post*  
-  <https://your-blog-link.com>
--->
+<!-- Blog Article – uncomment & replace when published -->
+- **Blog:** 🔐*Mastering AWS IAM: How to Control EC2 Access Like a Pro [Part-5]*  
+  <https://dev.to/suvrajeet/mastering-aws-iam-how-to-control-ec2-access-like-a-pro-part-5-4gd0>
+
 
 ---
 
