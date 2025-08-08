@@ -29,9 +29,9 @@
 
 Cloud identities are the Achilles’ heel of most breaches. In this project I designed **least-privilege AWS IAM**, codified governance with **Terraform**, automated evidence collection using **CloudTrail**, and wired continuous detection via **GuardDuty**—all documented from zero to production.
 
-![Architecture Diagram](https://github.com/your-username/your-repo/assets/architecture.svg)
+<!-- ![Architecture Diagram](https://github.com/your-username/your-repo/assets/architecture.svg) 
 *High-level architecture—download the repo for full diagrams!*
-
+-->
 ---
 
 ## 📚 Documentation & Walk-Through
@@ -103,10 +103,10 @@ AWS IAM - AWS Organizations - AWS STS - AWS CloudTrail - AWS GuardDuty - Terrafo
 ---
 
 ## 🙏 Acknowledgments
-This learning journey was powered & supported by NextWork's structured approach to cloud education, which made breaking down complex concepts into digestable-byte-sized-hands-on practice accessible through systematic skill building & clear-actionable steps.
+This learning journey was powered & supported by NextWork's structured approach to cloud education, which made breaking down complex concepts into digestable-byte-sized-hands-on practical accessible through systematic skill building & clear-actionable steps.
 
-This write-up is based on - NextWork's - Cloud Security with AWS IAM !
+This write-up is based on - NextWork's - Cloud Security with AWS IAM Challenge!
 
-Give it a try: <https://learn.nextwork.org/projects/aws-security-iam?track=high>
+Give it a try: <https://learn.nextwork.org/projects/aws-security-iam>
 
 ---
