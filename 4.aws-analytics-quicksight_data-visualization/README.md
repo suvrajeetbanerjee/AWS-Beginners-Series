@@ -21,13 +21,13 @@ This repo shows my complete workflow—from secure S3 ingest to pixel-perfect Qu
 | ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white) | ![QuickSight](https://img.shields.io/badge/Amazon-QuickSight-success?logo=amazon-quickSight&logoColor=white) | ![S3](https://img.shields.io/badge/Amazon-S3-blue?logo=amazons3&logoColor=white) | ![IAM](https://img.shields.io/badge/AWS-IAM-yellow?logo=amazonaws&logoColor=white) | ![Data Viz](https://img.shields.io/badge/Data%20Visualization-critical?logo=datatable&logoColor=white) | ![BI](https://img.shields.io/badge/Business%20Intelligence-blueviolet) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Cloud Foundations | Dashboard Design | Secure Storage | Least-Privilege Access | Interactive Charts | KPI Storytelling |
-
-[image:1]
+<!--
+[image:1] -->
 
 ---
-
+<!-- 
 ## 🌐 Architecture at a Glance
-[image:2]
+[image:2] -->
 
 ---
 
